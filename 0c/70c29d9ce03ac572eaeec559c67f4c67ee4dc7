@@ -1,0 +1,19 @@
+README.md
+  s_d712e82a8b16b0::t_93b90e1c4009c8 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0c70c29d9ce03ac572eaeec559c67f4c67ee4dc7",
+  "prompts": {},
+  "sessions": {
+    "s_d712e82a8b16b0": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "9e7801fa-3279-4a73-91a8-3644fa1c1811",
+        "model": "unknown"
+      },
+      "human_author": "Ignacio Diago Valeta <ignaciodv@inditex.com>"
+    }
+  }
+}
