@@ -1,5 +1,3 @@
-# ¡Hola! 👋 Soy Nacho
-
 <p align="center">
-  <img src="perspective-crawl.gif" alt="Perspective Text Crawl, animated ASCII art" width="720">
+  <img src="autumn-pagoda-maples.gif" alt="Autumn Pagoda Maples, animated ASCII art" width="720">
 </p>
