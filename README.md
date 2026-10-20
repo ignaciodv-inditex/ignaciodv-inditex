@@ -1,3 +1,3 @@
 # ¡Hola! 👋 Soy Nacho
 
-![Nacho](./banner.png)
+y ya no se pueden hacer bromas sobre nada.
